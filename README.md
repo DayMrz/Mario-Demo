@@ -1,6 +1,6 @@
 # Mario Bros-Coin Demo
 
-Hey! I just created this demo with the help of the JavaScript Bootcamp :3
+Hey! I just created a demo with the help of the JavaScript Bootcamp :3
 
 ### Gif
 
