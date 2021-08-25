@@ -1,0 +1,20 @@
+
+
+#player {
+    width: 200px;
+    position: absolute;
+    top: 40px;
+    left: 10px;
+    /* right: 10px; */
+    /* bottom: 10px; */
+
+}
+
+#coin {
+    width: 60px;
+    position: absolute;
+    top: 50px;
+    left: 130px;
+    right: 10px;
+    bottom: 10px;
+}
